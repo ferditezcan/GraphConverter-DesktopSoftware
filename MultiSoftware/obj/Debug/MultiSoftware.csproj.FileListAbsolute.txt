@@ -1,0 +1,32 @@
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe.config
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.pdb
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Form1.resources
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Properties.Resources.resources
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.exe
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.pdb
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.HelpUserControl.resources
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe.config
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.pdb
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csprojAssemblyReference.cache
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Form1.resources
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.HelpUserControl.resources
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Properties.Resources.resources
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csproj.GenerateResource.cache
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csproj.CoreCompileInputs.cache
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.exe
+D:\master\Thesis\Example application\NewVer1\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.pdb
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe.config
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.pdb
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csprojAssemblyReference.cache
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Form1.resources
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.HelpUserControl.resources
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Properties.Resources.resources
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csproj.GenerateResource.cache
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.exe
+D:\master\Dikkatli ol\orginal\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.pdb
