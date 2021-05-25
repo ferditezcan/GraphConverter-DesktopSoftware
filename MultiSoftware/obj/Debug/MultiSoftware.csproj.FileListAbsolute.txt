@@ -1,0 +1,31 @@
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe.config
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.pdb
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Form1.resources
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Properties.Resources.resources
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.exe
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.pdb
+C:\Users\msı\source\repos\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.HelpUserControl.resources
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe.config
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.pdb
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csprojAssemblyReference.cache
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Form1.resources
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.HelpUserControl.resources
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Properties.Resources.resources
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csproj.GenerateResource.cache
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.exe
+D:\TEZ\versions\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.pdb
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe.config
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.exe
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\bin\Debug\MultiSoftware.pdb
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csprojAssemblyReference.cache
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Form1.resources
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.HelpUserControl.resources
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.Properties.Resources.resources
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.csproj.GenerateResource.cache
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.exe
+D:\Thesis Soft 2020\Delaysiz\MultiSoftware\MultiSoftware\obj\Debug\MultiSoftware.pdb
